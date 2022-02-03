@@ -1,4 +1,4 @@
-# jQuery Plugin template
+# jQuery plugin template
 
 Template that features public and private methods and overridable/extensible defaults.
 
