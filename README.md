@@ -32,7 +32,7 @@ Load the JS file at the bottom of the document.
 </html>
 ```
 
-<p align="right"><a href="#jquery-plugin-template">&#8593; Back to top</a></p>
+<div align="right"><a href="#jquery-plugin-template">&#8593; Back to top</a></div>
 
 # Instance
 
@@ -52,7 +52,7 @@ $(element).jQueryPluginTemplate(method);
 $(element).jQueryPluginTemplate(method, options);
 ```
 
-<p align="right"><a href="#jquery-plugin-template">&#8593; Back to top</a></p>
+<div align="right"><a href="#jquery-plugin-template">&#8593; Back to top</a></div>
 
 # Overriding defaults
 
@@ -64,4 +64,4 @@ $.fn.jQueryPluginTemplate.defaults.property = value;
 
 Works for adding custom properties too.
 
-<p align="right"><a href="#jquery-plugin-template">&#8593; Back to top</a></p>
+<div align="right"><a href="#jquery-plugin-template">&#8593; Back to top</a></div>
