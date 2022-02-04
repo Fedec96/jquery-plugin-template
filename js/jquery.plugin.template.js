@@ -162,7 +162,7 @@
             return methods[config].apply(this, [].slice.call(arguments, 1));
         } else if (typeof config === 'object') {
             return this.each(function(i, target) {
-                const plugin = new Plugin(this, config);
+                new Plugin(this, config);
             });
         } else {
             console.error(displayName + ': invalid options.');
