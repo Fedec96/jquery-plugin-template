@@ -26,7 +26,7 @@ Load the JS file at the bottom of the document.
   <body>
     <!-- jQuery -->
     <script src="/js/jquery.min.js"></script>
-    <!-- jQuery Plugin JS -->
+    <!-- jQuery plugin JS -->
     <script src="/js/jquery.plugin.template.js"></script>
   </body>
 </html>
